@@ -1,0 +1,41 @@
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.csprojAssemblyReference.cache
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.Properties.Resources.resources
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.csproj.GenerateResource.cache
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.csproj.CoreCompileInputs.cache
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\bin\Debug\KeyCrackTest1.exe.config
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\bin\Debug\KeyCrackTest1.exe
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\bin\Debug\KeyCrackTest1.pdb
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.exe
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.pdb
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.StartForm.resources
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.SecondForm.resources
+C:\Users\varaguli\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.ThirdForm.resources
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\bin\Debug\KeyCrackTest1.exe.config
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\bin\Debug\KeyCrackTest1.exe
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\bin\Debug\KeyCrackTest1.pdb
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.csprojAssemblyReference.cache
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.StartForm.resources
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.SecondForm.resources
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.ThirdForm.resources
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.Properties.Resources.resources
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.csproj.GenerateResource.cache
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.csproj.CoreCompileInputs.cache
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.exe
+C:\Users\p1zza\source\repos\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.pdb
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\bin\Debug\KeyCrackTest1.exe.config
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\bin\Debug\KeyCrackTest1.exe
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\bin\Debug\KeyCrackTest1.pdb
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.csprojAssemblyReference.cache
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.StartForm.resources
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.SecondForm.resources
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.ThirdForm.resources
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.Properties.Resources.resources
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.csproj.GenerateResource.cache
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.csproj.CoreCompileInputs.cache
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.exe
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.pdb
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\bin\Debug\ru\KeyCrackTest1.resources.dll
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.StartForm.ru.resources
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\ru\KeyCrackTest1.resources.dll
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.SecondForm.ru.resources
+\\msk.mts.ru\MSK\User\Folders\00\01\varaguli\My Documents\KeyCrackTest1\KeyCrackTest1\obj\Debug\KeyCrackTest1.ThirdForm.ru.resources
